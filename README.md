@@ -1,2 +1,1 @@
-# cortext
-Cortext: Tim's Teaching Agent + Personal Memory Lab
+# Placeholder for README.md
